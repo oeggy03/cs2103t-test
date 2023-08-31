@@ -1,1 +1,2 @@
 apples can explode
+pears can explode
